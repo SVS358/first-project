@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Demo 2.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Demo1.0",
+		"liveServer.settings.port": 5501
+	}
+}
